@@ -79,6 +79,4 @@ while True:
 # Output:
 <img width="1040" height="787" alt="image" src="https://github.com/user-attachments/assets/8cd5b157-1115-4455-ae3f-7327b7f5d37f" />
 
-# Release video capture and close windows
-cap.release()
-cv2.destroyAllWindows()
+
